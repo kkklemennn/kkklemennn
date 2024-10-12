@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I am a Software Engineer with a passion for IoT and Cybersec.<br>📬 Shoot me an [Email](mailto:klemen.klemar@hotmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/klemen-klemar-05b7b8151/) :)
+😎 I am a Software Engineer with a passion for IoT and Cybersec.<br>📬 Find me on [LinkedIn](https://www.linkedin.com/in/klemen-klemar-05b7b8151/) :)
 
 
 # 💻 Tech Stack:
